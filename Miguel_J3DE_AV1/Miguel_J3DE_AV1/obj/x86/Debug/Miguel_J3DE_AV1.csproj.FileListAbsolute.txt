@@ -1,0 +1,14 @@
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\obj\x86\Debug\Miguel_J3DE_AV1.csprojResolveAssemblyReference.cache
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Miguel_J3DE_AV1.exe
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Miguel_J3DE_AV1.pdb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\obj\x86\Debug\Miguel_J3DE_AV1.exe
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\obj\x86\Debug\Miguel_J3DE_AV1.pdb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Content\Textures\Ground.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Content\Textures\House.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Content\Textures\Mill.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Content\Textures\Sail.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Content\Textures\SnowGround.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Content\Textures\SnowHouse.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Content\Textures\SnowMill.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_J3DE_AV1\Miguel_J3DE_AV1\Miguel_J3DE_AV1\bin\x86\Debug\Content\Textures\SnowSail.xnb

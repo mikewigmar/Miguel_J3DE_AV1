@@ -1,0 +1,8 @@
+Content\Textures\Ground.xnb
+Content\Textures\House.xnb
+Content\Textures\Mill.xnb
+Content\Textures\Sail.xnb
+Content\Textures\SnowGround.xnb
+Content\Textures\SnowHouse.xnb
+Content\Textures\SnowMill.xnb
+Content\Textures\SnowSail.xnb
